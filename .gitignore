@@ -1,0 +1,21 @@
+# build artifacts
+/build/
+/CMakeFiles/
+/CMakeCache.txt
+cmake_install.cmake
+Makefile
+*.o
+*.obj
+*.log
+
+# local runs
+latency.bin
+latency.png
+
+# Python caches
+__pycache__/
+*.pyc
+
+# venvs
+venv/
+.env/
