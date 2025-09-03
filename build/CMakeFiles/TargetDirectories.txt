@@ -1,4 +1,0 @@
-/home/andy/uTrade/build/CMakeFiles/ex_sim.dir
-/home/andy/uTrade/build/CMakeFiles/uclient.dir
-/home/andy/uTrade/build/CMakeFiles/edit_cache.dir
-/home/andy/uTrade/build/CMakeFiles/rebuild_cache.dir

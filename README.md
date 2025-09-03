@@ -1,4 +1,4 @@
-# VelociTrade Mini — Low-Latency Trading Lab (C++/Linux)
+# VelociTrade
 
 A compact trading lab that demonstrates the core building blocks of low-latency systems:
 
@@ -9,7 +9,6 @@ A compact trading lab that demonstrates the core building blocks of low-latency 
 - **Risk Controls:** price band, notional cap, per-second rate limit  
 - **Latency Measurement:** per-order round-trip times in nanoseconds, logged to a binary file and visualized with Python  
 
----
 
 ## 🔧 Quick Start
 
@@ -33,8 +32,6 @@ In two terminals:
 ```
 
 This will simulate sending 30,000 orders at high speed.
-
----
 
 ### 📈 Plot Latency
 ```bash
