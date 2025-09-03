@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/uclient.dir/src/client/uclient.cpp.o -o uclient 

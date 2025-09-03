@@ -1,0 +1,10 @@
+md_ip: 127.0.0.1
+md_port: 5001
+ord_ip: 127.0.0.1
+ord_port: 9001
+levels: 8
+risk_band_ticks: 20
+risk_notional_cap: 1000000000
+risk_max_rate: 2000
+heartbeat_ms: 200
+reconnect_ms: 500
